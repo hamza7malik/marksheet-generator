@@ -1,0 +1,25 @@
+.bold-txt{
+    display: inline;
+    font-weight: bold;
+    /* text-decoration: underline; */
+}
+.underline{
+    /* text-underline-offset: 5px; */
+    /* text-decoration-thickness: 2px; */
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 50px;
+    /* text-decoration-style: ; */
+    border-bottom: 3px solid ;
+}
+.signature-box {
+    height: 50px;
+    width: 100px;
+    background-color: #555;
+  }
+  .signatures{
+    margin-top: 10rem;
+  }
+  .table{
+    border-color: #000 !important
+  }
